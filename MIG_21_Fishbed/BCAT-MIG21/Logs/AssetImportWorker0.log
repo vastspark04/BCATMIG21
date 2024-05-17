@@ -1,0 +1,520 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.30f1 (1fb1bf06830e) revision 2077119'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Core' Language: 'en' Physical Memory: 32617 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.30f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/lulul/Documents/_Vault/Vtol Vr Modding/BCATMIG21/MIG_21/BCAT-MIG21
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+56036
+Successfully changed project path to: C:/Users/lulul/Documents/_Vault/Vtol Vr Modding/BCATMIG21/MIG_21/BCAT-MIG21
+C:/Users/lulul/Documents/_Vault/Vtol Vr Modding/BCATMIG21/MIG_21/BCAT-MIG21
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 127.59 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.30f1 (1fb1bf06830e)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/lulul/Documents/_Vault/Vtol Vr Modding/BCATMIG21/MIG_21/BCAT-MIG21/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2060 (ID=0x1f11)
+    Vendor:   
+    VRAM:     5969 MB
+    Driver:   31.0.15.4617
+Shader 'Ethical Motion/Particles/Lit MultiLight': fallback shader 'Hidden/Ethical Motion/Particles/Lit Alpha Blend Shadow Fallback' not found
+Shader 'Ethical Motion/Particles/Lit': fallback shader 'Hidden/Ethical Motion/Particles/Lit Alpha Blend Shadow Fallback' not found
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56520
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.005385 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 92.15 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.785 seconds
+Domain Reload Profiling:
+	ReloadAssembly (785ms)
+		BeginReloadAssembly (98ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (588ms)
+			LoadAssemblies (94ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (186ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (33ms)
+			SetupLoadedEditorAssemblies (227ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (92ms)
+				BeforeProcessingInitializeOnLoad (8ms)
+				ProcessInitializeOnLoadAttributes (88ms)
+				ProcessInitializeOnLoadMethodAttributes (33ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.045389 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 93.09 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.791 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1792ms)
+		BeginReloadAssembly (203ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (21ms)
+		EndReloadAssembly (1500ms)
+			LoadAssemblies (184ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (570ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (132ms)
+			SetupLoadedEditorAssemblies (479ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (93ms)
+				BeforeProcessingInitializeOnLoad (101ms)
+				ProcessInitializeOnLoadAttributes (251ms)
+				ProcessInitializeOnLoadMethodAttributes (15ms)
+				AfterProcessingInitializeOnLoad (14ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Ethical Motion/Particles/Lit MultiLight': fallback shader 'Hidden/Ethical Motion/Particles/Lit Alpha Blend Shadow Fallback' not found
+Shader 'Ethical Motion/Particles/Lit': fallback shader 'Hidden/Ethical Motion/Particles/Lit Alpha Blend Shadow Fallback' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
+Refreshing native plugins compatible for Editor in 1.16 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4559 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 241.5 MB.
+System memory in use after: 241.8 MB.
+
+Unloading 69 unused Assets to reduce memory usage. Loaded Objects now: 5294.
+Total: 3.816900 ms (FindLiveObjects: 0.317700 ms CreateObjectMapping: 0.228500 ms MarkObjects: 3.130100 ms  DeleteObjects: 0.139600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: e54d7ab0439102e2317fc1e4b246158d -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/PrefabInstance/MIG21.prefab
+  artifactKey: Guid(b7d83c4fd181b144e9918af879d38b90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PrefabInstance/MIG21.prefab using Guid(b7d83c4fd181b144e9918af879d38b90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32ef3bb6acf1f4a79c12ce1a2eb05498') in 2.860424 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 91.874373 seconds.
+  path: Assets/PrefabInstance/MIG21.prefab
+  artifactKey: Guid(b7d83c4fd181b144e9918af879d38b90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PrefabInstance/MIG21.prefab using Guid(b7d83c4fd181b144e9918af879d38b90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a0ea4c68b810f019fe6ab8d3c0fa6a4') in 1.977000 seconds 
+========================================================================
+Received Prepare
+Shader 'Ethical Motion/Particles/Lit MultiLight': fallback shader 'Hidden/Ethical Motion/Particles/Lit Alpha Blend Shadow Fallback' not found
+Shader 'Ethical Motion/Particles/Lit': fallback shader 'Hidden/Ethical Motion/Particles/Lit Alpha Blend Shadow Fallback' not found
+Refreshing native plugins compatible for Editor in 26.07 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 58 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 193.4 MB.
+System memory in use after: 193.7 MB.
+
+Unloading 65 unused Assets to reduce memory usage. Loaded Objects now: 5309.
+Total: 4.999800 ms (FindLiveObjects: 0.372800 ms CreateObjectMapping: 0.279700 ms MarkObjects: 4.232800 ms  DeleteObjects: 0.113500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: e54d7ab0439102e2317fc1e4b246158d -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 657.933737 seconds.
+  path: Assets/PrefabInstance/MIG21.prefab
+  artifactKey: Guid(b7d83c4fd181b144e9918af879d38b90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PrefabInstance/MIG21.prefab using Guid(b7d83c4fd181b144e9918af879d38b90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d4547a55cf6d47c1459953b52c018fd') in 2.105683 seconds 
+========================================================================
+Received Prepare
+Shader 'Ethical Motion/Particles/Lit MultiLight': fallback shader 'Hidden/Ethical Motion/Particles/Lit Alpha Blend Shadow Fallback' not found
+Shader 'Ethical Motion/Particles/Lit': fallback shader 'Hidden/Ethical Motion/Particles/Lit Alpha Blend Shadow Fallback' not found
+Refreshing native plugins compatible for Editor in 25.53 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 58 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 194.8 MB.
+System memory in use after: 195.1 MB.
+
+Unloading 65 unused Assets to reduce memory usage. Loaded Objects now: 5309.
+Total: 5.712000 ms (FindLiveObjects: 0.365300 ms CreateObjectMapping: 0.238300 ms MarkObjects: 4.998900 ms  DeleteObjects: 0.108500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: e54d7ab0439102e2317fc1e4b246158d -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 150.248884 seconds.
+  path: Assets/Sprite/largeCircleSpikes.asset
+  artifactKey: Guid(8ff2e8208361325429e3f919fba081db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite/largeCircleSpikes.asset using Guid(8ff2e8208361325429e3f919fba081db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cb7c0f88888e5e7922b1ba6d5d384ec') in 0.054739 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 36.652747 seconds.
+  path: Assets/PrefabInstance/MIG21.prefab
+  artifactKey: Guid(b7d83c4fd181b144e9918af879d38b90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PrefabInstance/MIG21.prefab using Guid(b7d83c4fd181b144e9918af879d38b90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd179f1aaaad021964e6ed30c19b9078c') in 2.131885 seconds 
+========================================================================
+Received Prepare
+Shader 'Ethical Motion/Particles/Lit MultiLight': fallback shader 'Hidden/Ethical Motion/Particles/Lit Alpha Blend Shadow Fallback' not found
+Shader 'Ethical Motion/Particles/Lit': fallback shader 'Hidden/Ethical Motion/Particles/Lit Alpha Blend Shadow Fallback' not found
+Refreshing native plugins compatible for Editor in 26.07 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 58 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 197.8 MB.
+System memory in use after: 198.0 MB.
+
+Unloading 65 unused Assets to reduce memory usage. Loaded Objects now: 5313.
+Total: 5.217400 ms (FindLiveObjects: 0.349800 ms CreateObjectMapping: 0.265000 ms MarkObjects: 4.495200 ms  DeleteObjects: 0.106500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: e54d7ab0439102e2317fc1e4b246158d -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1375.972478 seconds.
+  path: Assets/_MIG21Materials/black.001.mat
+  artifactKey: Guid(60aa62061d5af49459b4b1eab81ca599) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MIG21Materials/black.001.mat using Guid(60aa62061d5af49459b4b1eab81ca599) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4162d2500bda3614ac9d814b704ea589') in 0.146734 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000369 seconds.
+  path: Assets/_MIG21Materials/black.002.mat
+  artifactKey: Guid(8f2fb6dde8c2e024eb8871ca71ade1ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MIG21Materials/black.002.mat using Guid(8f2fb6dde8c2e024eb8871ca71ade1ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1012ad339a19ec5acc003e3865887aa1') in 0.019010 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000322 seconds.
+  path: Assets/_MIG21Materials/nab.001.mat
+  artifactKey: Guid(a284d96d751591149a4b526af8d6d95b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MIG21Materials/nab.001.mat using Guid(a284d96d751591149a4b526af8d6d95b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00af35298f9d8378b65b26eacd1925d7') in 0.018250 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000348 seconds.
+  path: Assets/_MIG21Materials/kreslo.001.mat
+  artifactKey: Guid(5ab7617479d3fdf4292484806517b253) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MIG21Materials/kreslo.001.mat using Guid(5ab7617479d3fdf4292484806517b253) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de3b99c5b610ad94339a8664b0f02f5d') in 0.019803 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000348 seconds.
+  path: Assets/_MIG21Materials/nab.mat
+  artifactKey: Guid(5326ffc39a0245540b168602aedd3053) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MIG21Materials/nab.mat using Guid(5326ffc39a0245540b168602aedd3053) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b265f954a818555cc406cc5f462b522') in 0.017206 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000349 seconds.
+  path: Assets/_MIG21Materials/nab.003.mat
+  artifactKey: Guid(ae907d1492c8705429ce5298b24552fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MIG21Materials/nab.003.mat using Guid(ae907d1492c8705429ce5298b24552fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c59b2815cb70c1294fdbfd2ecdbfddbd') in 0.019700 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000375 seconds.
+  path: Assets/_MIG21Materials/fuz.004.mat
+  artifactKey: Guid(685bff4bd00031e42b42e07037404ce3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MIG21Materials/fuz.004.mat using Guid(685bff4bd00031e42b42e07037404ce3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93d131628a595f8689317f783c78c2e2') in 0.016614 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000376 seconds.
+  path: Assets/_MIG21Materials/glass.mat
+  artifactKey: Guid(573171abf68d6064a93b76fb0e9356c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MIG21Materials/glass.mat using Guid(573171abf68d6064a93b76fb0e9356c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20a2b3a91893b626dd52d0619420ef62') in 0.016053 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000404 seconds.
+  path: Assets/_MIG21Materials/glass.001.mat
+  artifactKey: Guid(985f921adf3e0b94392b8635b71c919a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MIG21Materials/glass.001.mat using Guid(985f921adf3e0b94392b8635b71c919a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '952944de4aad6e6a8a90d0f048663637') in 0.017277 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000373 seconds.
+  path: Assets/_MIG21Materials/black.mat
+  artifactKey: Guid(aa4d386e9db6f344fb4140d361a027a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MIG21Materials/black.mat using Guid(aa4d386e9db6f344fb4140d361a027a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90a6e477c2e2b811e00a73560a396f46') in 0.011517 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000396 seconds.
+  path: Assets/_MIG21Materials/Material.002.mat
+  artifactKey: Guid(96f555551ac29514aaa5c27e4cffed68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MIG21Materials/Material.002.mat using Guid(96f555551ac29514aaa5c27e4cffed68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c208b13c9f35f907fee462ce57890325') in 0.016895 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000328 seconds.
+  path: Assets/_MIG21Materials/det1.mat
+  artifactKey: Guid(467dbd97dab165c47bbb39ee15814b45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MIG21Materials/det1.mat using Guid(467dbd97dab165c47bbb39ee15814b45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '059517a6841a3a85ccf92a94bd93f645') in 0.014716 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000343 seconds.
+  path: Assets/_MIG21Materials/k27.mat
+  artifactKey: Guid(b73b32e1669b2f343901ef2a915575f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MIG21Materials/k27.mat using Guid(b73b32e1669b2f343901ef2a915575f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3193d961e712ab809ab91b7da7f7630') in 0.021371 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000343 seconds.
+  path: Assets/_MIG21Materials/glass.002.mat
+  artifactKey: Guid(49286cdb06cd97d40b05c2f716c9fcdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MIG21Materials/glass.002.mat using Guid(49286cdb06cd97d40b05c2f716c9fcdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a961e0455e292e925e7b85942f83c9f9') in 0.011755 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000357 seconds.
+  path: Assets/_MIG21Materials/det2.mat
+  artifactKey: Guid(69311dc1dc3e58243bb8db1fb35bd8fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MIG21Materials/det2.mat using Guid(69311dc1dc3e58243bb8db1fb35bd8fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc3ada0c4c61538bd79c10cc9728fd03') in 0.015828 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/_MIG21Materials/Material.mat
+  artifactKey: Guid(fbb3d69e7664679448ac8b65b7ce8cfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MIG21Materials/Material.mat using Guid(fbb3d69e7664679448ac8b65b7ce8cfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb50293aca0b83a097791cf53c9149f8') in 0.014624 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/_MIG21Materials/fuz.003.mat
+  artifactKey: Guid(4c021b1fa8ad29c49a85d9161de54a61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MIG21Materials/fuz.003.mat using Guid(4c021b1fa8ad29c49a85d9161de54a61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17c78777fc3b058c2a6a8c0dec08ce2f') in 0.040759 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000361 seconds.
+  path: Assets/_MIG21Materials/wing.001.mat
+  artifactKey: Guid(ef7326227e2b8254fb168b80b9deb607) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MIG21Materials/wing.001.mat using Guid(ef7326227e2b8254fb168b80b9deb607) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9836b229dbfd265d4552fa909db38b88') in 0.013842 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000353 seconds.
+  path: Assets/_MIG21Materials/glass.003.mat
+  artifactKey: Guid(869d9c46316a26d45982dfc9bf92b085) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MIG21Materials/glass.003.mat using Guid(869d9c46316a26d45982dfc9bf92b085) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '095a4bc5b4cefe8927e69862a617a0b7') in 0.013237 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/_MIG21Materials/nab.002.mat
+  artifactKey: Guid(cac74231ecbfad743b4b72d7b56a4e90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MIG21Materials/nab.002.mat using Guid(cac74231ecbfad743b4b72d7b56a4e90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbb4e947f0037d4097d277c951acaaee') in 0.016488 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/_MIG21Materials/black.003.mat
+  artifactKey: Guid(e0b11044b624efc4ab1277e224b0560f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MIG21Materials/black.003.mat using Guid(e0b11044b624efc4ab1277e224b0560f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52610c5c78835475ba61e6ff1e3594d1') in 0.013421 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/_MIG21Materials/wing.mat
+  artifactKey: Guid(e83b06f9f76a88143a135bb6a15c76c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MIG21Materials/wing.mat using Guid(e83b06f9f76a88143a135bb6a15c76c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4fc3c86fb13b0180162ff398b500b88') in 0.017379 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000437 seconds.
+  path: Assets/_MIG21Materials/Material.001.mat
+  artifactKey: Guid(6d8e988a2fa0bdb46a1683ffcf50b2e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MIG21Materials/Material.001.mat using Guid(6d8e988a2fa0bdb46a1683ffcf50b2e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d97f77b557e6522fdfa62c886f7168f') in 0.012023 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000312 seconds.
+  path: Assets/_MIG21Materials/det1.002.mat
+  artifactKey: Guid(9e05c9ee2286fa849bd845deaa01a292) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MIG21Materials/det1.002.mat using Guid(9e05c9ee2286fa849bd845deaa01a292) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c1638977d56b02c7616197a4cf5ef36') in 0.020767 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000328 seconds.
+  path: Assets/_MIG21Materials/fuz.mat
+  artifactKey: Guid(ca3c8c3b847d7f942afb7acca41d35ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MIG21Materials/fuz.mat using Guid(ca3c8c3b847d7f942afb7acca41d35ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '316fa32dcc167ae1398120964f24682b') in 0.026114 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000383 seconds.
+  path: Assets/_MIG21Materials/fuz.001.mat
+  artifactKey: Guid(c8dc6acfad9f1a044a025b9b29111e46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MIG21Materials/fuz.001.mat using Guid(c8dc6acfad9f1a044a025b9b29111e46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc59109060f91edf9799db2e17ac3896') in 0.015447 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/_MIG21Materials/fuz.002.mat
+  artifactKey: Guid(9afdf4769b3a8ef478ce3f9eee96d68a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_MIG21Materials/fuz.002.mat using Guid(9afdf4769b3a8ef478ce3f9eee96d68a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '743c30e24a8cf4f7e60319e39b1b6b70') in 0.016523 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 144.776138 seconds.
+  path: Assets/PrefabInstance/MIG21.prefab
+  artifactKey: Guid(b7d83c4fd181b144e9918af879d38b90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PrefabInstance/MIG21.prefab using Guid(b7d83c4fd181b144e9918af879d38b90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7bb59008761ad4567250444c11d1987') in 2.256987 seconds 
+========================================================================
+Received Prepare
+Shader 'Ethical Motion/Particles/Lit MultiLight': fallback shader 'Hidden/Ethical Motion/Particles/Lit Alpha Blend Shadow Fallback' not found
+Shader 'Ethical Motion/Particles/Lit': fallback shader 'Hidden/Ethical Motion/Particles/Lit Alpha Blend Shadow Fallback' not found
+Refreshing native plugins compatible for Editor in 25.94 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 58 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 199.9 MB.
+System memory in use after: 200.1 MB.
+
+Unloading 65 unused Assets to reduce memory usage. Loaded Objects now: 5345.
+Total: 5.620600 ms (FindLiveObjects: 0.373300 ms CreateObjectMapping: 0.277400 ms MarkObjects: 4.849000 ms  DeleteObjects: 0.120200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: e54d7ab0439102e2317fc1e4b246158d -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 671.565858 seconds.
+  path: Assets/PrefabInstance/MIG21.prefab
+  artifactKey: Guid(b7d83c4fd181b144e9918af879d38b90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PrefabInstance/MIG21.prefab using Guid(b7d83c4fd181b144e9918af879d38b90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07552719b53ac6210c61c535388b3621') in 2.451261 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 107.105909 seconds.
+  path: Assets/PrefabInstance/MIG21.prefab
+  artifactKey: Guid(b7d83c4fd181b144e9918af879d38b90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PrefabInstance/MIG21.prefab using Guid(b7d83c4fd181b144e9918af879d38b90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3943a736507398c86fecd48d96fe6ca') in 2.474801 seconds 
+========================================================================
+Received Prepare
+Shader 'Ethical Motion/Particles/Lit MultiLight': fallback shader 'Hidden/Ethical Motion/Particles/Lit Alpha Blend Shadow Fallback' not found
+Shader 'Ethical Motion/Particles/Lit': fallback shader 'Hidden/Ethical Motion/Particles/Lit Alpha Blend Shadow Fallback' not found
+Refreshing native plugins compatible for Editor in 29.37 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 58 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 205.1 MB.
+System memory in use after: 205.4 MB.
+
+Unloading 65 unused Assets to reduce memory usage. Loaded Objects now: 5345.
+Total: 7.030700 ms (FindLiveObjects: 0.392100 ms CreateObjectMapping: 0.336300 ms MarkObjects: 6.108600 ms  DeleteObjects: 0.192700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: e54d7ab0439102e2317fc1e4b246158d -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 648.704351 seconds.
+  path: Assets/PrefabInstance/MIG21.prefab
+  artifactKey: Guid(b7d83c4fd181b144e9918af879d38b90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PrefabInstance/MIG21.prefab using Guid(b7d83c4fd181b144e9918af879d38b90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43b5f5e3a76cdd72b648bca6c2e3f11b') in 2.007770 seconds 
+========================================================================
+Received Prepare
+Shader 'Ethical Motion/Particles/Lit MultiLight': fallback shader 'Hidden/Ethical Motion/Particles/Lit Alpha Blend Shadow Fallback' not found
+Shader 'Ethical Motion/Particles/Lit': fallback shader 'Hidden/Ethical Motion/Particles/Lit Alpha Blend Shadow Fallback' not found
+Refreshing native plugins compatible for Editor in 25.82 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 58 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 209.6 MB.
+System memory in use after: 209.9 MB.
+
+Unloading 65 unused Assets to reduce memory usage. Loaded Objects now: 5345.
+Total: 5.734100 ms (FindLiveObjects: 0.378000 ms CreateObjectMapping: 0.259600 ms MarkObjects: 4.970800 ms  DeleteObjects: 0.124700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: e54d7ab0439102e2317fc1e4b246158d -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Shader 'Ethical Motion/Particles/Lit MultiLight': fallback shader 'Hidden/Ethical Motion/Particles/Lit Alpha Blend Shadow Fallback' not found
+Shader 'Ethical Motion/Particles/Lit': fallback shader 'Hidden/Ethical Motion/Particles/Lit Alpha Blend Shadow Fallback' not found
+Refreshing native plugins compatible for Editor in 26.35 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 58 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 209.7 MB.
+System memory in use after: 210.0 MB.
+
+Unloading 58 unused Assets to reduce memory usage. Loaded Objects now: 5345.
+Total: 5.898900 ms (FindLiveObjects: 0.422700 ms CreateObjectMapping: 0.238200 ms MarkObjects: 5.136300 ms  DeleteObjects: 0.100500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: e54d7ab0439102e2317fc1e4b246158d -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
